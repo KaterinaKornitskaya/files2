@@ -1,0 +1,2 @@
+String 1 in file
+String 2 in next line
